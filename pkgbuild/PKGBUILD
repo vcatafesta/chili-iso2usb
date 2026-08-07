@@ -31,7 +31,7 @@ package() {
   printf "%s\n" "${optdepends[@]}" >"${pkgdir}/usr/share/${pkgname}/optdepends"
 
   # Copiar a estrutura de /etc, /usr e /opt para /usr/share/${pkgname}
-  local dirs=("usr" "etc" "opt")
+  local dirs=("usr" "etc" "opt" "var")
   for dir in "${dirs[@]}"; do
     if [ -d "${srcdir}/${pkgname}/${dir}" ]; then
       cp -a "${srcdir}/${pkgname}/${dir}" "${pkgdir}/usr/share/${pkgname}/"

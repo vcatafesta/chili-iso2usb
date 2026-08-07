@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: chili-tradutor-go 2.1.20-20260201\n"
-"POT-Creation-Date: 2026-06-12 12:45-0400\n"
-"PO-Revision-Date: 2026-06-12 12:45-0400\n"
+"POT-Creation-Date: 2026-08-06 21:34-0400\n"
+"PO-Revision-Date: 2026-08-06 21:34-0400\n"
 "Last-Translator: Vilmar Catafesta <vcatafesta@gmail.com>\n"
 "Language-Team: Portuguese <https://github.com/chililinux/chili-tradutor-go>\n"
 "MIME-Version: 1.0\n"
@@ -14,100 +14,100 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: usr/bin/chili-iso2usb:47
+#: usr/local/bin/chili-iso2usb:47
 #, sh-printf-format
 msgid "ERRO: não encontrei o comando '%s'"
 msgstr "ERRO: não encontrei o comando '%s'"
 
-#: usr/bin/chili-iso2usb:51
+#: usr/local/bin/chili-iso2usb:51
 msgid "---IMPOSSÍVEL CONTINUAR---"
 msgstr "---IMPOSSÍVEL CONTINUAR---"
 
-#: usr/bin/chili-iso2usb:52
+#: usr/local/bin/chili-iso2usb:52
 msgid "Esse script necessita dos comandos listados acima"
 msgstr "Esse script necessita dos comandos listados acima"
 
-#: usr/bin/chili-iso2usb:53
+#: usr/local/bin/chili-iso2usb:53
 #, sh-format
 msgid "Instale-os e/ou verifique se estão no seu $PATH"
 msgstr "Instale-os e/ou verifique se estão no seu $PATH"
 
-#: usr/bin/chili-iso2usb:61
+#: usr/local/bin/chili-iso2usb:61
 msgid "Fechar"
 msgstr "Fechar"
 
-#: usr/bin/chili-iso2usb:98 usr/bin/chili-iso2usb:226
+#: usr/local/bin/chili-iso2usb:98 usr/local/bin/chili-iso2usb:226
 msgid "Selecione a ISO para copiar"
 msgstr "Selecione a ISO para copiar"
 
-#: usr/bin/chili-iso2usb:99
+#: usr/local/bin/chili-iso2usb:99
 msgid "Sair"
 msgstr "Sair"
 
-#: usr/bin/chili-iso2usb:101
+#: usr/local/bin/chili-iso2usb:101
 msgid "Nome"
 msgstr "Nome"
 
-#: usr/bin/chili-iso2usb:102
+#: usr/local/bin/chili-iso2usb:102
 msgid "Tamanho em GB"
 msgstr "Tamanho em GB"
 
-#: usr/bin/chili-iso2usb:103 usr/bin/chili-iso2usb:230
+#: usr/local/bin/chili-iso2usb:103 usr/local/bin/chili-iso2usb:230
 msgid "Selecione o seu USB drive"
 msgstr "Selecione o seu USB drive"
 
-#: usr/bin/chili-iso2usb:104
+#: usr/local/bin/chili-iso2usb:104
 msgid "Atenção tamanho muito grande"
 msgstr "Atenção tamanho muito grande"
 
-#: usr/bin/chili-iso2usb:105
+#: usr/local/bin/chili-iso2usb:105
 msgid "ATENÇÃO !!!"
 msgstr "ATENÇÃO !!!"
 
-#: usr/bin/chili-iso2usb:106
+#: usr/local/bin/chili-iso2usb:106
 msgid "Poderia ser um disco rígido externo. \\nContinuar ?"
 msgstr "Poderia ser um disco rígido externo. \\nContinuar ?"
 
-#: usr/bin/chili-iso2usb:107
+#: usr/local/bin/chili-iso2usb:107
 msgid "Problema na ferramenta. Contactar o autor."
 msgstr "Problema na ferramenta. Contatar o autor."
 
-#: usr/bin/chili-iso2usb:108
+#: usr/local/bin/chili-iso2usb:108
 msgid "Progresso:"
 msgstr "Progresso:"
 
-#: usr/bin/chili-iso2usb:109
+#: usr/local/bin/chili-iso2usb:109
 msgid "Copiar de"
 msgstr "Copiar de"
 
-#: usr/bin/chili-iso2usb:110
+#: usr/local/bin/chili-iso2usb:110
 msgid "Você já pode remover o seu USB drive."
 msgstr "Você já pode remover o seu USB drive."
 
-#: usr/bin/chili-iso2usb:111
+#: usr/local/bin/chili-iso2usb:111
 msgid "Fim da copia"
 msgstr "Fim da copia"
 
-#: usr/bin/chili-iso2usb:112
+#: usr/local/bin/chili-iso2usb:112
 msgid "Operação cancelada pelo usuário"
 msgstr "Operação cancelada pelo usuário"
 
-#: usr/bin/chili-iso2usb:113
+#: usr/local/bin/chili-iso2usb:113
 msgid "Cancelado"
 msgstr "Cancelado"
 
-#: usr/bin/chili-iso2usb:199
+#: usr/local/bin/chili-iso2usb:199
 msgid "Propriedades do Dispositivo"
 msgstr "Propriedades do Dispositivo"
 
-#: usr/bin/chili-iso2usb:205
+#: usr/local/bin/chili-iso2usb:205
 msgid "Dispositivo:"
 msgstr "Dispositivo:"
 
-#: usr/bin/chili-iso2usb:206
+#: usr/local/bin/chili-iso2usb:206
 msgid "Arquivo ISO:"
 msgstr "Arquivo ISO:"
 
-#: usr/bin/chili-iso2usb:207
+#: usr/local/bin/chili-iso2usb:207
 msgid "Imagens ISO"
 msgstr "Imagens ISO"
